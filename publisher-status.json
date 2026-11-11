@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "repository": "world-law-jp-02",
+  "publicBase": "https://nanalab.kr/world-law-jp-02/",
+  "fullSplitComplete": false,
+  "complete": false,
+  "scopeAsOf": "2026-11-11T01:51:36.172244+00:00",
+  "counts": {
+    "localLawDocuments": 29,
+    "localNavigationPages": 4,
+    "localCanonicalPages": 33,
+    "localRedirectPages": 0,
+    "localHtmlPages": 33,
+    "newlyCoveredLawIDs": 19,
+    "additionalNewerEditions": 10
+  },
+  "interfaceLanguages": [
+    "ko",
+    "en",
+    "zh",
+    "es"
+  ],
+  "sitemap": "sitemap.xml"
+}
