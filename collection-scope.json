@@ -4,14 +4,14 @@
   "publicBase": "https://nanalab.kr/world-law-jp-02/",
   "fullSplitComplete": false,
   "complete": false,
-  "scopeAsOf": "2026-11-11T02:53:12.314745+00:00",
+  "scopeAsOf": "2026-11-11T03:30:49.205824+00:00",
   "counts": {
-    "localLawDocuments": 76,
+    "localLawDocuments": 174,
     "localNavigationPages": 4,
-    "localCanonicalPages": 80,
+    "localCanonicalPages": 178,
     "localRedirectPages": 0,
-    "localHtmlPages": 80,
-    "newlyCoveredLawIDs": 66,
+    "localHtmlPages": 178,
+    "newlyCoveredLawIDs": 164,
     "additionalNewerEditions": 10
   },
   "interfaceLanguages": [
@@ -25,15 +25,16 @@
   "imagesProvided": false,
   "pdfsProvided": false,
   "translation": false,
-  "officialSourceExcerptDocuments": 1,
-  "omittedSubtrees": 134,
+  "officialSourceExcerptDocuments": 3,
+  "omittedSubtrees": 383,
   "scope": "Partial unofficial original-language legislative snapshots, not a complete national corpus or certification of legal force. Figures, tables and formulas are omitted with exact notices. Separate newer editions retain links to earlier snapshots.",
   "observationScope": {
     "earliest": "2026-11-11T01:51:36.172244+00:00",
-    "latest": "2026-11-11T02:53:12.314745+00:00",
+    "latest": "2026-11-11T03:30:49.205824+00:00",
     "observations": [
       "2026-11-11T01:51:36.172244+00:00",
-      "2026-11-11T02:53:12.314745+00:00"
+      "2026-11-11T02:53:12.314745+00:00",
+      "2026-11-11T03:30:49.205824+00:00"
     ],
     "meaning": "Per-document dated API metadata observations; no certification of current legal force."
   }
