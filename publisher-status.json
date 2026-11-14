@@ -4,14 +4,14 @@
   "publicBase": "https://nanalab.kr/world-law-jp-02/",
   "fullSplitComplete": false,
   "complete": false,
-  "scopeAsOf": "2026-11-14T06:01:15.276334+00:00",
+  "scopeAsOf": "2026-11-14T06:16:17.506799+00:00",
   "counts": {
-    "localLawDocuments": 314,
+    "localLawDocuments": 414,
     "localNavigationPages": 4,
-    "localCanonicalPages": 318,
+    "localCanonicalPages": 418,
     "localRedirectPages": 0,
-    "localHtmlPages": 318,
-    "newlyCoveredLawIDs": 304,
+    "localHtmlPages": 418,
+    "newlyCoveredLawIDs": 404,
     "additionalNewerEditions": 10
   },
   "interfaceLanguages": [
@@ -23,14 +23,15 @@
   "sitemap": "sitemap.xml",
   "observationScope": {
     "earliest": "2026-11-11T01:51:36.172244+00:00",
-    "latest": "2026-11-14T06:01:15.276334+00:00",
+    "latest": "2026-11-14T06:16:17.506799+00:00",
     "observations": [
       "2026-11-11T01:51:36.172244+00:00",
       "2026-11-11T02:53:12.314745+00:00",
       "2026-11-11T03:30:49.205824+00:00",
       "2026-11-11T23:53:40.055167+00:00",
       "2026-11-14T04:27:23.267324+00:00",
-      "2026-11-14T06:01:15.276334+00:00"
+      "2026-11-14T06:01:15.276334+00:00",
+      "2026-11-14T06:16:17.506799+00:00"
     ],
     "meaning": "Per-document dated API metadata observations; no certification of current legal force."
   }

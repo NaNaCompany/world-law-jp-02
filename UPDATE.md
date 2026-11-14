@@ -21,3 +21,9 @@
 - Independently verified 32,659 retained source leaves, source-node parents and attributes. Omitted 141 outermost table/formula/figure subtrees with exact source-position notices. Official-source excerpts remain separately identified.
 - Inventory and body revision metadata agree on law type and CurrentEnforced/None flags; those API flags do not certify legal force. All 318 current HTML pages, 318 sitemap URLs and existing publisher integrations/central banner were checked.
 - Original-language partial reproduction only; no national completeness, Google indexing, actual ad/analytics delivery or browser-render guarantee.
+
+## 2026-11-14 — Fourth batch: 100 Japanese law additions
+
+- Added 100 previously unrepresented official Act snapshots from inventory observed 2026-11-14T06:16:17.506799+00:00. JP02 now contains 414 editions (404 newly covered laws and 10 newer editions). Existing 314 law HTML pages remain unchanged.
+- Pinned source revision IDs and original/text hashes. Independently audited 61,817 retained text leaves with source-node order, parent and attributes. Excluded 91 outermost table/formula/figure subtrees at their exact source positions. API metadata and official-source excerpt notices are retained without a legal-force claim.
+- Every current 418 HTML page and sitemap route is checked for canonical, publisher integrations, GTM noscript, central book banner and internal links; new pages retain the local-preview guard. Official legal wording only, with attribution and processing notices. No complete-national-corpus, Google-indexing, actual analytics/ad-delivery or browser-render guarantee.
