@@ -27,3 +27,11 @@
 - Added 100 previously unrepresented official Act snapshots from inventory observed 2026-11-14T06:16:17.506799+00:00. JP02 now contains 414 editions (404 newly covered laws and 10 newer editions). Existing 314 law HTML pages remain unchanged.
 - Pinned source revision IDs and original/text hashes. Independently audited 61,817 retained text leaves with source-node order, parent and attributes. Excluded 91 outermost table/formula/figure subtrees at their exact source positions. API metadata and official-source excerpt notices are retained without a legal-force claim.
 - Every current 418 HTML page and sitemap route is checked for canonical, publisher integrations, GTM noscript, central book banner and internal links; new pages retain the local-preview guard. Official legal wording only, with attribution and processing notices. No complete-national-corpus, Google-indexing, actual analytics/ad-delivery or browser-render guarantee.
+
+<!-- world-law-jp-20261114-batch5:source-verified -->
+## 2026-11-14 — 100 additional Japanese law snapshots
+
+- Official Act inventory freshly observed 2026-11-14T06:32:46.700326+00:00. Added 100 previously unrepresented law IDs. JP02 now holds 514 editions: 504 newly covered laws and 10 newer editions. Existing 414 edition HTML files and per-document observation dates are unchanged.
+- Independent source projection verified 45,392 retained text leaves, source-node order, parents and attributes. Omitted 34 outermost table/formula/figure subtrees with exact position notices. Official-source excerpts are separately labelled. Revision IDs, amendment effective dates and source/text hashes retained; inventory/body type and status metadata agree.
+- All 518 HTML pages, 518 sitemap routes and 6,224 internal links checked. Existing four publisher integrations, GTM noscript, central book banner and local-preview guard placement preserved. Official legislative wording only, with source/reuse and processing notices.
+- Partial original-language text reproduction; not national completeness, independent legal-force certification, Google indexing, browser/device render QA or actual analytics/ad-delivery verification.

@@ -1,6 +1,6 @@
 # JP02 legislative snapshots
 
-Partial original-language collection: 414 editions, including 404 newly covered laws and10 additional newer editions. Earlier editions are retained. Each page preserves its dated source metadata. Not a complete national corpus, complete source reproduction, translation or certification of legal force. Figures, tables and formulas are omitted with source-location notices.
+Partial original-language collection: 514 editions, including 504 newly covered laws and10 additional newer editions. Earlier editions are retained. Each page preserves its dated source metadata. Not a complete national corpus, complete source reproduction, translation or certification of legal force. Figures, tables and formulas are omitted with source-location notices.
 
 ## Append validated batches
 
