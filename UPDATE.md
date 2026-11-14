@@ -14,3 +14,10 @@
 - Added 50 new law IDs from the saved official Act inventory dated 2026-11-14. This is the same inventory observation as the preceding batch; original per-page source dates are retained. JP02 now holds 264 editions: 254 newly covered laws and 10 newer editions.
 - Pinned original JSON/revision IDs and hashes, compared retained text/tree/attributes independently: 24761 retained leaves and 12 omitted table/formula/figure subtrees. Original-source excerpt flags are distinguished from collection omissions.
 - Existing 214 edition HTML files unchanged. All 268 current HTML pages, 268 sitemap URLs, four-language lists, publisher tags, central book banner and local guard placement checked. No national corpus, current-force, browser-render or Google-indexing certification.
+
+## 2026-11-14 — Third batch: 50 additional Japanese laws
+
+- Official Act inventory refreshed at 2026-11-14T06:01:15.276334+00:00. Added 50 previously unrepresented law IDs from pinned official revision JSON. JP02 now contains 314 editions (304 newly covered laws and 10 newer editions). Earlier document observations and edition HTML are unchanged.
+- Independently verified 32,659 retained source leaves, source-node parents and attributes. Omitted 141 outermost table/formula/figure subtrees with exact source-position notices. Official-source excerpts remain separately identified.
+- Inventory and body revision metadata agree on law type and CurrentEnforced/None flags; those API flags do not certify legal force. All 318 current HTML pages, 318 sitemap URLs and existing publisher integrations/central banner were checked.
+- Original-language partial reproduction only; no national completeness, Google indexing, actual ad/analytics delivery or browser-render guarantee.
