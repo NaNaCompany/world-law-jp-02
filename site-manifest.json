@@ -6,12 +6,12 @@
   "complete": false,
   "scopeAsOf": "2026-11-14T04:27:23.267324+00:00",
   "counts": {
-    "localLawDocuments": 214,
+    "localLawDocuments": 264,
     "localNavigationPages": 4,
-    "localCanonicalPages": 218,
+    "localCanonicalPages": 268,
     "localRedirectPages": 0,
-    "localHtmlPages": 218,
-    "newlyCoveredLawIDs": 204,
+    "localHtmlPages": 268,
+    "newlyCoveredLawIDs": 254,
     "additionalNewerEditions": 10
   },
   "interfaceLanguages": [

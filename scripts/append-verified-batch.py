@@ -22,7 +22,7 @@ def js(value):
 def load(path):
     return json.loads(path.read_text(encoding='utf-8-sig'))
 def save(path, value):
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\n')
 
 def render(source, official):
     """All source leaves are numbered before any omission is applied."""
